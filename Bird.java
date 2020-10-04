@@ -22,7 +22,7 @@ public class Bird implements KeyListener{
 	}
 
 	public void loadBird() {
-		img = ImageLoader.loadImg("C:\\Users\\Abdul\\Desktop\\Flappy Bird Assets\\flappybird.png");
+		img = ImageLoader.loadImg("Flappy Bird Assets\\flappybird.png");
 
 	}
 	
