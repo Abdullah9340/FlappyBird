@@ -1,4 +1,4 @@
-package dev.abdullah.launcher;
+
 
 public class Launcher {
 
