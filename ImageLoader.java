@@ -1,4 +1,4 @@
-package dev.abdullah.launcher;
+
 
 import java.awt.image.BufferedImage;
 import java.io.File;
