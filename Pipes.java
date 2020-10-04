@@ -1,4 +1,4 @@
-package dev.abdullah.launcher;
+
 
 import java.awt.Color;
 import java.awt.Graphics;
