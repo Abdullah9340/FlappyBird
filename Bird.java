@@ -1,4 +1,4 @@
-package dev.abdullah.launcher;
+
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -21,7 +21,7 @@ public class Bird implements KeyListener{
 	}
 
 	public void loadBird() {
-		img = ImageLoader.loadImg("C:\\Users\\Abdul\\Desktop\\development\\Flappy Bird Assets\\flappybird.png");
+		img = ImageLoader.loadImg("Flappy Bird Assets\\flappybird.png");
 
 	}
 	
